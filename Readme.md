@@ -110,7 +110,7 @@ Each card has its own independent counter initialized from the `count` prop. Pre
 
 **Maysam Bradiya**  
 Junior Frontend & Mobile Developer  
-[GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-profile)
+[GitHub](https://github.com/MaysamMB) · [LinkedIn](https://www.linkedin.com/in/maysam-baradiya-589757347/)
 
 ---
 
